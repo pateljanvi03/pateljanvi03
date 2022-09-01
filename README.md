@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Janvi Patel, 2nd year computer science student from India.
+- 👋 Hi, I’m Janvi Patel, 3rd year computer science student from India.
 - 👀 I’m interested in exploring... Web technologies
 - 🌱 I’m currently learning ... Vue.js, Node.js
 
